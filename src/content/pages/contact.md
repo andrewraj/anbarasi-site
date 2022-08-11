@@ -1,9 +1,9 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Get in touch with Anze
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Got a burning question regarding **Sound design**, Need an editor for your **Sound**, or just anything in general. Anze happy to talk.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Just send her a message using the form below or you DM her on [Twitter](https://twitter.com/example)
