@@ -2,7 +2,7 @@
 template: blog-post
 title: Klpost production
 slug: /klpost-production
-date: 2012-08-12T012:00:10.102Z
+date: 2012-08-12 12:00
 description: Klpost production
 featuredImage: /assets/interm.jpg
 ---
