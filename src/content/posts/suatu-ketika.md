@@ -4,7 +4,7 @@ title: Suatu Ketika
 slug: /suatu-ketika
 date: "2019"
 description: Suatu Ketika
-featuredImage: /assets/suatu_ketika.jpeg
+featuredImage: /assets/suatu_ketika.jpg
 ---
 
 **Assistant sound editor**
