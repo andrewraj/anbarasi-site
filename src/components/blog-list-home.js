@@ -16,7 +16,7 @@ export default function BlogListHome(props) {
 const PostMaker = ({ data }) => (
   <section className="home-posts">
     <h2>
-      Latest in my <strong>Portfolio</strong>{" "}
+      Latest in my <strong>portfolio</strong>{" "}
       <span className="icon -right">
         <RiArrowDownLine />
       </span>
