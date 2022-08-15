@@ -21,7 +21,7 @@ const Footer = () => (
         <span className="icon -love">
           <RiHeart2Line />
         </span>{" "}
-        by <Link to="/">Stackrole.com</Link>
+        All rights reserved.
       </p>
     </div>
   </footer>
