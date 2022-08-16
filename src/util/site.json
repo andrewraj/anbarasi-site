@@ -6,7 +6,7 @@
     "siteUrl": "https://www.anbarasi.com",
     "image": "/assets/icon.png",
     "iconimage": "/assets/icon.png",
-    //"twitterUsername": "@stackrole"
+    "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
