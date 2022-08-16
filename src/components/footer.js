@@ -17,9 +17,7 @@ const Footer = () => (
           <RiCopyrightLine />
         </span>{" "}
 
-      <script>document.getElementById("year").innerHTML = new Date().getFullYear();</script>
-      <span id="year"></span>
-      
+        <p>Copyright <script>document.write(new Date().getFullYear());</script></p>
         Anbarasi Sinnayah{" "}
         <span className="icon -love">
           <RiHeart2Line />
