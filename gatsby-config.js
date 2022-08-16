@@ -95,12 +95,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        icon: "static" + settings.meta.iconimage,
-      },
-    },
     "gatsby-plugin-offline",
     `gatsby-plugin-netlify`,
     {
