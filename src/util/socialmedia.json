@@ -1,24 +1,12 @@
 {
   "socialIcons": [
     {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
-    },
-    {
-      "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "icon": "imdb",
+      "url": "https://www.imdb.com/name/nm10782948/?ref_=nv_sr_srsg_0"
     },
     {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
-    },
-    {
-      "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
-    },
-    {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "url": "https://www.linkedin.com/mwlite/in/anze-sinnayah-70b384230"
     }
   ]
 }
