@@ -8,11 +8,11 @@ Anbarasi has always had a keen sense and awareness of sound. When she was 13 she
 
 ![Anze](/assets/profile.jpg "Anze")
 
-1. Versatile Post production sound editor/designer for film,televisions,commercial and web based content based in Malaysia. Three years of sound editorial/post production experience in recording collaborations and solo projects. 
+1. Versatile Post production sound editor/designer for film, televisions, commercial and web based content based in Malaysia. Three years of sound editorial/post production experience in recording collaborations and solo projects. 
 
-2. Possessing extensive knowledge and professional experience with Pro tools to accomplish a variety of editing tasks including foley recording,sfx editing,adr script and audio recording .Comfortable working with clients and maintaining high energy.
+2. Possessing extensive knowledge and professional experience with Pro Tools to accomplish a variety of editing tasks including foley recording, sfx editing, adr script and audio recording. Comfortable working with clients and maintaining high energy.
 
-3. Organised and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. Reliable employee seeking Sound editor position. Offering excellent communication and good judgement.
+3. Organised and dependable candidate, successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. Reliable employee seeking a sound editor position. Offering excellent communication and good judgement.
 
 ## SKILLS
 - Pro Tools
