@@ -9,4 +9,4 @@ featuredImage: /assets/cerana-biduk.jpg
 
 **Audio assistant**
 
-Another horror genre,which i ended up recording just ADR , yet again worked with my senior engineer Mr.Terry in a very short period of time for a very quick ADR recording.I recorded Nur Fasha Sandha and Pekin Ibrahim, they both were great talents to work with,i really enjoyed and gain more knowledge during that time.
+Another horror genre which I ended up recording ADR, yet again worked with my senior engineer Mr. Terry in a very short period of time for a very quick ADR recording. I recorded **Nur Fasha Sandha and Pekin Ibrahim**, they both were great talents to work with and I really enjoyed and gain more knowledge during that time.
