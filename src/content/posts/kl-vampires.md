@@ -2,7 +2,7 @@
 template: blog-post
 title: KL vampires
 slug: /kl-vampires
-date: "2019"
+date: "2019-10-01"
 description: KL vampires
 featuredImage: /assets/kl-vampires.jpg
 ---

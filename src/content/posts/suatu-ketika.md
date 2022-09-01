@@ -2,7 +2,7 @@
 template: blog-post
 title: Suatu Ketika
 slug: /suatu-ketika
-date: "2019-10-01"
+date: "2018-10-01"
 description: Suatu Ketika
 featuredImage: /assets/suatu_ketika.jpg
 ---

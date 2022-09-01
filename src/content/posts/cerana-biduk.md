@@ -2,7 +2,7 @@
 template: blog-post
 title: Cerana biduk
 slug: /cerana-biduk
-date: "2020"
+date: "2019-09-01"
 description: Cerana biduk is a horror movie
 featuredImage: /assets/cerana-biduk.jpg
 ---

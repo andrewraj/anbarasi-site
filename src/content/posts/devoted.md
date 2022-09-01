@@ -2,7 +2,7 @@
 template: blog-post
 title: Devoted
 slug: /Devoted
-date: "2019"
+date: "2019-03-01"
 description: Devoted
 featuredImage: /assets/devoted.jpg
 ---

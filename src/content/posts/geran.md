@@ -2,7 +2,7 @@
 template: blog-post
 title: Geran
 slug: /geran
-date: "2019"
+date: "2019-06-01"
 description: Geran
 featuredImage: /assets/geran.jpg
 ---

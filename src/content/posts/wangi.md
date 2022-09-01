@@ -2,7 +2,7 @@
 template: blog-post
 title: Wangi
 slug: /wangi
-date: "2019"
+date: "2019-11-01"
 description: Wangi
 featuredImage: /assets/wangi.jpg
 ---

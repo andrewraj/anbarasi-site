@@ -2,7 +2,7 @@
 template: blog-post
 title: Daulat
 slug: /daulat
-date: "2020"
+date: "2019-09-01"
 description: Daulat is Malaysia's first political film
 featuredImage: /assets/daulat.jpg
 ---
