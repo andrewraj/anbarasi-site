@@ -115,5 +115,8 @@ module.exports = {
         generateMatchPathRewrites: true,
       },
     },
+    {
+    resolve: "gatsby-theme-photo-albums",
+    },
   ],
 }
